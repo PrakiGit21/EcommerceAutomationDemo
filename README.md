@@ -1,2 +1,2 @@
-# qualitestDemo
-Qualitest
+# EcommerceAutomationDemo
+Retail Project Automation
